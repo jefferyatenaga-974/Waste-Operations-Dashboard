@@ -57,3 +57,4 @@ Cleaned files:
 - **Google Sheets** — hosting the cleaned data source
 - **Looker Studio** — live, connected dashboard
 - <img width="512" height="384" alt="WOP Dashboard" src="https://github.com/user-attachments/assets/96f1222f-71ab-4b90-80b2-9663d127425e" />
+<img width="512" height="384" alt="WOP DASHBOARD 2" src="https://github.com/user-attachments/assets/6e765d0d-9c82-495a-aedf-c38b1a3cfd49" />
